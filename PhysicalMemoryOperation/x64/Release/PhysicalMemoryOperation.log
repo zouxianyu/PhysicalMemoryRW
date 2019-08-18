@@ -1,5 +1,5 @@
 ﻿  Building 'PhysicalMemoryOperation' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
-  Stamping x64\Release\PhysicalMemoryOperation.inf [Version] section with DriverVer=03/15/2019,20.56.36.349
+  Stamping x64\Release\PhysicalMemoryOperation.inf [Version] section with DriverVer=08/19/2019,2.40.30.935
   main.c
   PhysicalMemoryOperation.vcxproj -> C:\Users\zxy20\source\repos\PhysicalMemoryOperation\x64\Release\PhysicalMemoryOperation.sys
   PhysicalMemoryOperation.vcxproj -> C:\Users\zxy20\source\repos\PhysicalMemoryOperation\x64\Release\PhysicalMemoryOperation.pdb (Full PDB)

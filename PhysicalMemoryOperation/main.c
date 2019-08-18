@@ -104,6 +104,8 @@ NTSTATUS DriverEntry(PDRIVER_OBJECT pDriverObj, PUNICODE_STRING pRegistryString)
 	MmFreeNonCachedMemory(pTemp, 0x1000);
 	*/
 	
+	CreatePhysicalOpCR3BySystemCR3(GetCR3ByPID(4), &g_PhysicalOpCR3);
+
 	ContextVirtualToPhysical(&g_PhysicalOpCR3);
 	ULONG64 Read1 = *(PULONG64)0x0;
 	MyPrint(_TitleAndFunc "ReadTest1:%16IX\n", Read1);

@@ -7,7 +7,7 @@ Signature="$WINDOWS NT$"
 Class=System
 ClassGuid={4d36e97d-e325-11ce-bfc1-08002be10318}
 Provider=XYLab
-DriverVer=03/15/2019,20.56.36.349
+DriverVer=08/19/2019,2.40.30.935
 CatalogFile=PhysicalMemoryOperation.cat
 
 [DestinationDirs]
