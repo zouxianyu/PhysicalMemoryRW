@@ -1,0 +1,32 @@
+;
+; PhysicalMemoryOperation.inf
+;
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=System
+ClassGuid={4d36e97d-e325-11ce-bfc1-08002be10318}
+Provider=XYLab
+DriverVer=03/15/2019,20.56.36.349
+CatalogFile=PhysicalMemoryOperation.cat
+
+[DestinationDirs]
+DefaultDestDir = 12
+
+
+[SourceDisksNames]
+1 = %DiskName%,,,""
+
+[SourceDisksFiles]
+
+
+[Manufacturer]
+%ManufacturerName%=Standard,NTamd64
+
+[Standard.NTamd64]
+
+
+[Strings]
+ManufacturerName="XYLab"
+ClassName=""
+DiskName="PhysicalMemoryOperation Source Disk"

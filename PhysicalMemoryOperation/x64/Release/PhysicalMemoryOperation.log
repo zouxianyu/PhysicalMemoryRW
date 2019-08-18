@@ -1,0 +1,8 @@
+﻿  Building 'PhysicalMemoryOperation' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\PhysicalMemoryOperation.inf [Version] section with DriverVer=03/15/2019,20.56.36.349
+  main.c
+  PhysicalMemoryOperation.vcxproj -> C:\Users\zxy20\source\repos\PhysicalMemoryOperation\x64\Release\PhysicalMemoryOperation.sys
+  PhysicalMemoryOperation.vcxproj -> C:\Users\zxy20\source\repos\PhysicalMemoryOperation\x64\Release\PhysicalMemoryOperation.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\Users\zxy20\source\repos\PhysicalMemoryOperation\x64\Release\PhysicalMemoryOperation.sys
+  
